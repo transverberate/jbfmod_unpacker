@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.vs/
+env/
+dist/**
+.vscode/
+ignore/
